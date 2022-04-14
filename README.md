@@ -6,7 +6,7 @@
 - 😊 Pronouns: she/her  
   
 
-- 🔭   I’ve just graduated from a Full Stack Development bootcamp and am currently working on completing my portfolio pieces  
+- 🔭 Graduate of a Full Stack Development bootcamp
   
 
 - 👀 On the lookout for my first Junior Dev role  
