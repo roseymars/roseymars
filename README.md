@@ -6,7 +6,7 @@
 - 😊 Pronouns: she/her  
   
 
-- 🔭 Graduate of a Full Stack Development bootcamp
+- 🔭 Graduate of Northcoders' Full Stack Development bootcamp
   
 
 - 👀 On the lookout for my first Junior Dev role  
