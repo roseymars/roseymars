@@ -7,6 +7,9 @@
   
 
 - 🔭 Graduate of Northcoders' Full Stack Development bootcamp
+
+
+- 👩🏻‍💻 Currently learning Python
   
 
 - 👀 On the lookout for my first Junior Dev role  
