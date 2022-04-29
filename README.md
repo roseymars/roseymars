@@ -12,9 +12,6 @@
 - 👩🏻‍💻 Currently learning Python
   
 
-- 👀 On the lookout for my first Junior Dev role  
-  
-
 <br/>  
 
 
