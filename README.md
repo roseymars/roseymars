@@ -9,7 +9,7 @@
 - 🔭 Graduate of Northcoders' Full Stack Development bootcamp
 
 
-- 👩🏻‍💻 Currently learning Python, improving my React skills and dabbling with TypeScript
+- 👩🏻‍💻 Currently learning C# on .NET 
   
 
 <br/>  
