@@ -1,15 +1,6 @@
 
 
-### <div align="center">Hey! I'm Marissa, a Junior Dev based in the UK 🚀</div>  
-  
-
-- 😊 Pronouns: she/her  
-  
-
-- 🔭 Graduate of Northcoders' Full Stack Development bootcamp
-
-
-- 👩🏻‍💻 Currently learning C# on .NET 
+### <div align="center">Hey! I'm Marissa, a Software Engineer based in the UK 🚀</div>  
   
 
 <br/>  
