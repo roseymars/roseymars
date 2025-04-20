@@ -1,8 +1,5 @@
 
 
-### <div align="center">Hey! I'm Marissa, a Software Engineer based in the UK 🚀</div>  
-  
-
 <br/>  
 
 
